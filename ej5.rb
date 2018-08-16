@@ -31,5 +31,5 @@ end
 conejo = Conejo.new('Bugs Bunny')
 p conejo.saludar
 p conejo.dieta
-Herviboro.definir
+p Herviboro.definir
 #Pregunta: ¿Por qué es mejor solución la implementación de Mixin que mediante Herencia de Herencia?

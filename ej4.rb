@@ -1,5 +1,3 @@
-#Transformar la clase Semana en un módulo y obtener la misma salida:
-
 module Semana
   @@primer_dia = 'Lunes'
 
